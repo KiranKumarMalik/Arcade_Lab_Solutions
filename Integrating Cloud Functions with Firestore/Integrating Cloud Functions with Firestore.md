@@ -45,7 +45,7 @@ export REGION=
 ```
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Integrating%20Cloud%20Functions%20with%20Firestore/quicklab.sh
+curl -LO raw.githubusercontent.com/KiranKumarMalik/Arcade_Lab_Solutions/main/Integrating%20Cloud%20Functions%20with%20Firestore/quicklab.sh
 sudo chmod +x quicklab.sh
 ./quicklab.sh
 ```
