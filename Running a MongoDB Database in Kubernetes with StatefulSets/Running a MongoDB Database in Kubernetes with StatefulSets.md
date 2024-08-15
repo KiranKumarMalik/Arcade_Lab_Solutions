@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Running%20a%20MongoDB%20Database%20in%20Kubernetes%20with%20StatefulSets/gsp022.sh
+curl -LO raw.githubusercontent.com/KiranKumarMalik/Arcade_Lab_Solutions/main/Running%20a%20MongoDB%20Database%20in%20Kubernetes%20with%20StatefulSets/gsp022.sh
 
 sudo chmod +x gsp022.sh
 
@@ -21,6 +21,5 @@ sudo chmod +x gsp022.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [DevHub Cloud](https://www.youtube.com/@DevHub_Cloud)
