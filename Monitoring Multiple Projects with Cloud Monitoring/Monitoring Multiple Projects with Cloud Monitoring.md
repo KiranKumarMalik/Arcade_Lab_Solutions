@@ -37,4 +37,4 @@ sudo chmod +x gsp090-2.sh
 #### *Well done!*
 
 
-# [DevHub Cloud](https://www.youtube.com/@quickgcplab)
+# [DevHub Cloud](https://www.youtube.com/@DevHub_Cloud)
