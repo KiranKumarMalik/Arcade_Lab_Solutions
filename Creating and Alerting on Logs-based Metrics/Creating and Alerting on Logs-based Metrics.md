@@ -1,6 +1,6 @@
 # Creating and Alerting on Logs-based Metrics || [GSP091](https://www.cloudskillsboost.google/focuses/619?parent=catalog) ||
 
-## Solution [here](https://youtu.be/5muqifJV51M)
+## Solution [here](https://www.youtube.com/watch?v=nS8B_Vb0KOI)
 
 ### Run the following Commands in CloudShell
 

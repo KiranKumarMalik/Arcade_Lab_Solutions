@@ -1,6 +1,6 @@
 # Monitoring Multiple Projects with Cloud Monitoring || [GSP090](https://www.cloudskillsboost.google/focuses/621?parent=catalog) ||
 
-## Solution [here](https://youtu.be/NLQ0j9y2ZaU)
+## Solution [here](https://www.youtube.com/watch?v=Md9S9w1NM2s)
 
 ### Run the following Commands in CloudShell
 ```
