@@ -8,7 +8,7 @@ export PROJECT_2=
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Monitoring%20Multiple%20Projects%20with%20Cloud%20Monitoring/gsp090-1.sh
+curl -LO raw.githubusercontent.com/KiranKumarMalik/Arcade_Lab_Solutions/main/Monitoring%20Multiple%20Projects%20with%20Cloud%20Monitoring/gsp090-1.sh
 
 sudo chmod +x gsp090-1.sh
 
@@ -23,7 +23,7 @@ sudo chmod +x gsp090-1.sh
 * For Uptime check Title: enter `DemoGroup uptime check`
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Monitoring%20Multiple%20Projects%20with%20Cloud%20Monitoring/gsp090-2.sh
+curl -LO raw.githubusercontent.com/KiranKumarMalik/Arcade_Lab_Solutions/main/Monitoring%20Multiple%20Projects%20with%20Cloud%20Monitoring/gsp090-2.sh
 
 sudo chmod +x gsp090-2.sh
 
