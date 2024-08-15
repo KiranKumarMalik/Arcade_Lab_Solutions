@@ -1,6 +1,6 @@
 # Running a MongoDB Database in Kubernetes with StatefulSets || [GSP022](https://www.cloudskillsboost.google/focuses/640?parent=catalog) ||
 
-## Solution [here](https://youtu.be/BgDhGANEdp4)
+## Solution [here](https://www.youtube.com/watch?v=8vm1Gmki7DQ)
 
 ### Run the following Commands in CloudShell
 
